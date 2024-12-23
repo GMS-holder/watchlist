@@ -4,6 +4,7 @@ __pycache__
 .DS_Store
 .env
 .flaskenv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -11,3 +12,4 @@ __pycache__/
 
 # C extensions
 *.so
+*.db
